@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+* {
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+}
+
+p#top-text {
+    color: firebrick;
+    font-size: larger;
+}
+
+button#dark-mode {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+button#light-mode {
+    color: gray;
+    font-weight: bold;
+}
+
+.footer {
+    background: darkblue;
+    text-align: center;
+    border: 1px solid black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+}
